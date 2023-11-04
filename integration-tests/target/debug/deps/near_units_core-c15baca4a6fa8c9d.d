@@ -1,0 +1,11 @@
+C:\Users\sebas\near_demo\integration-tests\target\debug\deps\near_units_core-c15baca4a6fa8c9d.rmeta: C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\lib.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\gas.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\near.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\prefixes.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\util.rs
+
+C:\Users\sebas\near_demo\integration-tests\target\debug\deps\libnear_units_core-c15baca4a6fa8c9d.rlib: C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\lib.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\gas.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\near.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\prefixes.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\util.rs
+
+C:\Users\sebas\near_demo\integration-tests\target\debug\deps\near_units_core-c15baca4a6fa8c9d.d: C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\lib.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\gas.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\near.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\prefixes.rs C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\util.rs
+
+C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\lib.rs:
+C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\gas.rs:
+C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\near.rs:
+C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\prefixes.rs:
+C:\Users\sebas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\near-units-core-0.2.0\src\util.rs:
